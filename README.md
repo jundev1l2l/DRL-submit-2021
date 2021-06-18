@@ -1,8 +1,3 @@
 # DRL-submit-2021
 
-submit 시 주의사항
-- branch 이름은 {학번}-{이름}
-  - 예: 20210101-sungbin 
-- `README.md` 에 제출한 코드 실행 방법이 반드시 상세하게 기술되어야 함
-  - 코드를 구동하기 위한 os, dependency 기술 필요
-  - PDF 첨부 금지
+코드 구현은 google colaboratory에서 진행했습니다. `neuboots_dqn_cartpole.ipynb`를 열어서 GPU 세션으로 설정한 뒤, 순차적으로 코드셀들을 실행해주시면 됩니다.
